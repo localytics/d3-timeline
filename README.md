@@ -1,3 +1,8 @@
+This repo is forked and currently just used as a POC for understanding Vertica query execution.
+We've embedded some sample data after hacking it into format -- take a look at: /examples/vertica-queries.html
+
+
+
 #d3-timeline
 A simple d3 timeline plugin.
 
